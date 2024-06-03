@@ -18,7 +18,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
  <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
  <td><a href="">資料視覺化</a></td>
- <td>張 O 庭</td>
+ <td>范文孝</td>
  </tr>
 
  <tr>
@@ -51,7 +51,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
  <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
  <td><a href="">資料視覺化</a></td>
- <td>張 O 庭</td>
+ <td>范文孝</td>
  </tr>
 
  <tr>
