@@ -25,7 +25,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
  <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
  <td><a href="">其他</a></td>
- <td>劉光英</td>
+ <td>楊麗君</td>
  </tr>
 </table><br>
 <img src="II_1.jpg"></img>
@@ -58,7 +58,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
  <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
  <td><a href="">其他</a></td>
- <td>劉光英</td>
+ <td>楊麗君</td>
  </tr>
 </table><br>
 <img src="II_1.jpg"></img>
